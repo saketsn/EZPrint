@@ -1,0 +1,11 @@
+<!-- Icon for the "Generate QR" button -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24"
+    android:tint="?attr/colorControlNormal">
+    <path
+        android:fillColor="@android:color/white"
+        android:pathData="M9.5,6.5v3h-3v-3h3M11,5H5v6h6V5M9.5,14.5v3h-3v-3h3M11,13H5v6h6V13M17.5,6.5v3h-3v-3h3M19,5h-6v6h6V5M13,13h1.5v1.5H13V13M14.5,14.5h1.5v1.5h-1.5V14.5M16,13h1.5v1.5H16V13M13,16h1.5v1.5H13V16M14.5,17.5h1.5v1.5h-1.5V17.5M16,16h1.5v1.5H16V16M17.5,14.5h1.5v1.5h-1.5V14.5M17.5,17.5h1.5v1.5h-1.5V17.5M19,16h-1.5v-1.5H19V16M19,19h-6v-6h6V19M3,11V3h8v8H3m2,-6H3v2h2V5m-2,4H3v2h2V9M9,5H7v2h2V5m-2,4H7v2h2V9"/>
+</vector>

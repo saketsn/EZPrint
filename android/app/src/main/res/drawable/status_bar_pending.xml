@@ -1,0 +1,8 @@
+<!-- An orange vertical bar for pending items -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="@color/status_orange" />
+    <corners
+        android:topLeftRadius="16dp"
+        android:bottomLeftRadius="16dp"/>
+</shape>

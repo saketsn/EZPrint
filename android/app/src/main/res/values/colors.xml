@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#E53935</color>
+
+    <!-- App Specific Colors -->
+    <color name="primaryBlue">#0D62FF</color>
+    <color name="gray">#8A8A8A</color>
+    <color name="lightGray">#E0E0E0</color>
+
+    <color name="primaryPurple">#941AED</color>
+    <!-- Text & Icon Colors -->
+    <color name="inactiveGray">#BDBDBD</color>
+    <color name="cardBackgroundColor">#F7F7F7</color>
+
+    <color name="status_green">#2BBF34</color>
+    <color name="status_blue">#1251D1</color>
+    <color name="status_orange">#F05B2E</color>
+</resources>

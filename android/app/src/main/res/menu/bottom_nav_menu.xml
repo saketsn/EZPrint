@@ -1,0 +1,29 @@
+<!-- Defines the items for the bottom navigation bar -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/nav_activity"
+        android:icon="@drawable/ic_dashboard"
+        android:title="Home"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/nav_search"
+        android:icon="@drawable/ic_search"
+        android:title="Search"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/nav_placeholder"
+        android:title=""
+        android:enabled="false"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/nav_qr_code"
+        android:icon="@drawable/ic_qr_code"
+        android:title="Transactions"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/nav_price_settings"
+        android:icon="@drawable/ic_price"
+        android:title="Price"
+        app:showAsAction="ifRoom" />
+</menu>

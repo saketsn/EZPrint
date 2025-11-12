@@ -1,0 +1,15 @@
+<!-- The menu that will pop up when the 3 dots are clicked -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_accept"
+        android:icon="@drawable/ic_check_circle"
+        android:title="Accept Order"/>
+    <item
+        android:id="@+id/action_reject"
+        android:icon="@drawable/ic_cancel"
+        android:title="Reject Order"/>
+    <item
+        android:id="@+id/action_delete"
+        android:icon="@drawable/ic_delete"
+        android:title="Delete Order"/>
+</menu>

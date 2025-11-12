@@ -1,0 +1,23 @@
+# ===== Ignore general temp/build files =====
+*.log
+*.tmp
+*.temp
+Thumbs.db
+.DS_Store
+
+# ===== Ignore OS or editor junk =====
+.vscode/
+.idea/
+
+# ===== Ignore Web build files =====
+node_modules/
+dist/
+.env
+
+# ===== Ignore Android build outputs =====
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/.cxx/
+android/.externalNativeBuild/

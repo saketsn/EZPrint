@@ -1,0 +1,56 @@
+# =========================
+# Android Studio / IntelliJ
+# =========================
+*.iml
+.idea/
+.gradle/
+local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+
+# =========================
+# Build Outputs
+# =========================
+build/
+app/build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# =========================
+# OS-specific files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Log / Temporary Files
+# =========================
+*.log
+*.temp
+*.tmp
+
+# =========================
+# Firebase & Secrets
+# =========================
+# IMPORTANT: If your google-services.json contains sensitive keys, ignore it.
+# If safe for build (public project), you can remove this line.
+google-services.json
+
+# =========================
+# Gradle Wrapper
+# =========================
+gradle-app.setting
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# =========================
+# Environment / Local Config
+# =========================
+.env
+secret.properties

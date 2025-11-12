@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- Divider line height -->
+    <size android:height="1dp" />
+
+    <!-- Divider color -->
+    <solid android:color="#E9E9E9" />
+</shape>

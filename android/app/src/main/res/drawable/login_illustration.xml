@@ -1,0 +1,41 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="160dp"
+    android:viewportWidth="200"
+    android:viewportHeight="160">
+
+    <!-- Background rectangle -->
+    <path
+        android:fillColor="#E3F2FD"
+        android:pathData="M10,80 a70,70 0 1,0 180,0" />
+
+    <!-- Person Body -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M80,110 h40 v40 h-40 z" />
+
+    <!-- Person Head -->
+    <path
+        android:fillColor="#424242"
+        android:pathData="M100,60 m-20,0 a20,20 0 1,1 40,0 a20,20 0 1,1 -40,0" />
+
+    <!-- Chart bar 1 -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M140,90 h15 v60 h-15 z" />
+
+    <!-- Chart bar 2 -->
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M160,70 h15 v80 h-15 z" />
+
+    <!-- Plus icon 1 -->
+    <path
+        android:fillColor="#FF5722"
+        android:pathData="M40,50 h10 v-10 h5 v10 h10 v5 h-10 v10 h-5 v-10 h-10z" />
+
+    <!-- Plus icon 2 -->
+    <path
+        android:fillColor="#9C27B0"
+        android:pathData="M180,40 h5 v-5 h2 v5 h5 v2 h-5 v5 h-2 v-5 h-5z" />
+</vector>

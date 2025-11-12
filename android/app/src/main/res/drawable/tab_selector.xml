@@ -1,0 +1,7 @@
+<!-- This selector applies the correct background based on the tab's state -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- When the tab is selected, use the purple background -->
+    <item android:drawable="@drawable/tab_selected_background" android:state_selected="true"/>
+    <!-- By default, use the transparent background -->
+    <item android:drawable="@drawable/tab_unselected_background"/>
+</selector>

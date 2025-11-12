@@ -1,0 +1,11 @@
+<!-- An icon for the Dark Mode setting -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24.0"
+    android:viewportHeight="24.0"
+    android:tint="@color/gray">
+    <path
+        android:fillColor="@android:color/white"
+        android:pathData="M9.37,5.51C9.19,6.15 9,6.82 9,7.5c0,4.42 3.58,8 8,8c0.68,0 1.35,-0.19 1.99,-0.53C17.47,18.89 14.86,21 12,21c-4.97,0 -9,-4.03 -9,-9c0,-2.86 1.11,-5.47 2.99,-7.47C7.03,4.96 8.16,5.21 9.37,5.51z"/>
+</vector>

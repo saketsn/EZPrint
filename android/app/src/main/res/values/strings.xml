@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">EZPrint</string>
+
+    <!-- Login Screen Strings -->
+    <string name="sign_in">Sign In</string>
+    <string name="sign_in_subtitle">Enter valid user name &amp; password to continue</string>
+    <string name="user_name">User name</string>
+    <string name="password">Password</string>
+    <string name="forget_password">Forget password</string>
+    <string name="login">Login</string>
+    <string name="or_continue_with">Or Continue with</string>
+    <string name="google">Google</string>
+    <string name="facebook">Facebook</string>
+    <string name="havent_any_account">Haven\'t any account?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="login_illustration">Login Illustration</string>
+
+    <!-- For content descriptions -->
+    <string name="signup_illustration">Sign Up Illustration</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

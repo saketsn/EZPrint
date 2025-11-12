@@ -1,0 +1,6 @@
+<!-- A semi-transparent green overlay for printed documents -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="#79D181" /> <!-- Light Green with 10% opacity -->
+    <corners android:radius="16dp" />
+</shape>
