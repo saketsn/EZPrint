@@ -21,3 +21,6 @@ android/app/build/
 android/local.properties
 android/.cxx/
 android/.externalNativeBuild/
+
+# Firebase credentials (do not push)
+web/server/ezprint-cb431-firebase-adminsdk-fbsvc-a40318ed0c.json
